@@ -1,0 +1,11 @@
+.cell button {
+    height: min(20vh, 20vw);
+    width: min(20vh, 20vw);
+
+    background-color: transparent;
+    color: black;
+    font-size: min(15vh, 15vw);
+
+    border-color: black;
+    border-width: 0.05em;
+}

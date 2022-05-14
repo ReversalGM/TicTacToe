@@ -1,0 +1,22 @@
+.checker {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.winner {
+    color: lightsalmon;
+}
+
+.newgame {
+    background-color: lightblue;
+    width : min(15vh, 25vw);
+    height: min(5vh, 8vw);
+
+    border-radius: 0.5rem;
+    border-width: 0.25rem;
+    border-color: black;
+
+    font-size: 175%;
+}
